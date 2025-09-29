@@ -1,4 +1,4 @@
-# Secirurity-to-pricacy app/project
+# Security-from-Piracy app/project
 
 Author NAME of this repository is = Karan Chauhan
 

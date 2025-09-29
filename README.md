@@ -1,4 +1,4 @@
-# Secirurity-to-pricacy app/project
+# Probekm-to-Idea-to-Solution-to-Security-to-Priacy app/project
 
 Author NAME of this repository is = Karan Chauhan
 
